@@ -73,12 +73,20 @@ $$
 
 리샘플링은 표본을 추출하면서 원래 데이터 셋을 복원하기 때문에 이를 통해서 모집단의 분포에 어떤 가정도 필요 없이 표본만으로 추론이 가능하다는 장점이 있다.
 
+> - 샘플링은 표본 추출을 통해 모집단 전체에 대한 추정치를 얻는다.
+>     - random sampling, stratified sampling
+> - 리샘플링은 모분포와 비슷할 것으로 추정되는 여러 분포를 통해 통계량의 변동성을 알아본다.   
+>     - K-Fold Cross-Validation, BootStrap
+
+#### 샘플링 
+
 #### References
 
 - [(데이터과학 인터뷰 질문)(2) 샘플링과 리샘플링, 1편 - CHAOS & PATTERN : 데이터 사이언스 블로그](https://cnp-0717.tistory.com/7?category=838077)
 - [샘플링과 리샘플링의 차이는 무엇일까? - 김감귤](https://kejdev.github.io/posts/sampling-resampling/)
 - [resampling을 이용한 방법 (bootstrapping) - 진화하자 - 어디에도 소속되지 않기](https://adnoctum.tistory.com/296)
 - [샘플링과 리샘플링 - Wriggling](https://trampled-worm.tistory.com/91)
+- [Statistical Learning (II): Data Sampling & Resampling - Denise Chen](https://towardsdatascience.com/statistical-learning-ii-data-sampling-resampling-93a0208d6bb8)
 
 ---
 
