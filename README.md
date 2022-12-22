@@ -12,6 +12,9 @@
 
 ## Notice
 
+> **Warning**   
+> **PR 요청 시 [작성 규칙](https://github.com/boostcamp-ai-tech-4/ai-tech-interview/discussions/182)을 준수해주세요. 준수하지 않을 시 해당 PR은 거절됩니다.**
+
 - 피드백은 [Pull Request를 통한 피드백 요청 방법](https://github.com/boostcamp-ai-tech-4/ai-tech-interview/discussions/181)을 참고하여 Pull Request로 보내주세요.
   - Pull Request 작성 규칙은 [여기](https://github.com/boostcamp-ai-tech-4/ai-tech-interview/discussions/182)를 참고해주세요. 
 - GitHub 외에 [GitBook 사이트](https://boostdevs.gitbook.io/ai-tech-interview/)로도 보실 수 있습니다.
